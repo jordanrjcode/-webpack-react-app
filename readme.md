@@ -14,6 +14,18 @@ git clone https://github.com/jordanrjcode/-webpack-react-app.git
 npm install
 ```
 
+## Start development server
+
+```
+npm run dev
+```
+
+## Generate production folder
+
+```
+npm run build
+```
+
 ### Favicon used in this project
 
 This favicon was taken from the platform [_Flaticon_](https://www.flaticon.es/).
